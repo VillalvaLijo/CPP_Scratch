@@ -1,0 +1,3 @@
+/home/parallels/CLionProjects/Scratch_CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/parallels/CLionProjects/Scratch_CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parallels/CLionProjects/Scratch_CPP/cmake-build-debug/CMakeFiles/Scratch_CPP.dir
