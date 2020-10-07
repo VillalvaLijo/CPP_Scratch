@@ -12,6 +12,9 @@ int main() {
 
     int chest = 42, waist = 0x42, inseam = 042;
 
+    char ch = 'M';
+    int i = ch;
+
     cout << "Hello, World!" << endl;
 
     cout<< " This Program takes the input of two numbers and performs addition." << endl;
@@ -22,7 +25,7 @@ int main() {
 
     //cout<<"Execute Addition " << numA << " + " << numB << " + " << sum << endl;
 
-
+    cout<<"Charecter ch is "<<ch<<" to us but in ASCII it is: "<<i<<endl;
     return 0;
 }
 
