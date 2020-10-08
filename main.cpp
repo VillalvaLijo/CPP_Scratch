@@ -58,12 +58,27 @@ int main() {
     cout<<"Go: "<<Go<<endl;
     cout<<"Stop: "<<Stop<<endl;
 
-    if (Go == true) {
+    cout<<"Enter Go or Stop: ";
+    char place_holder[] = {0};
+
+    cin >> place_holder;
+    cout<<"for place_holder you entered: "<< place_holder<<endl;
+
+
+    /*int length_of_place_holder = sizeof(place_holder);
+    cout<<"sizeof(placeholder): "<<length_of_place_holder<<endl;
+     */
+    //sizeof(place_holder) produces 1
+
+
+    /*if (
+            for(i=0;i++;i<sizeof(place_holder))
+            ) {
         cout<<"GO is True!";
     }
     else {
         cout<<"You must Stop!";
-    }
+    }*/
 
 
 
