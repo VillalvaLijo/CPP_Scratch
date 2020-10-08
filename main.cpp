@@ -33,6 +33,13 @@ int main() {
     i = ch;
 
     cout<<"New value for ch: "<<ch<<" New ASCII value: "<<i<<endl;
+    char alarm = '\a';
+    cout<<"ITS LIT FAM"<<endl;
+
+
+    //universal charecter practice
+    cout<<"Let them eatg\u00E2teau.\n";
+
     return 0;
 }
 
