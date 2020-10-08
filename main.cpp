@@ -40,6 +40,18 @@ int main() {
     //universal charecter practice
     cout<<"Let them eatg\u00E2teau.\n";
 
+    //using char as a number holder.
+    char five = 5;
+    unsigned char twohundo = 200;
+    signed char negbucktwenty = -120;
+
+    cout<<"These next three strings use chars to display:\n";
+    cout<<"char five: "<<five<<endl;
+    cout<<"unsigned char twohundo: "<<twohundo<<endl;
+    cout<<"signed char negbucktwenty: "<< negbucktwenty<<endl;
+    //cannot read on my system
+
+
     return 0;
 }
 
