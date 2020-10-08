@@ -51,6 +51,22 @@ int main() {
     cout<<"signed char negbucktwenty: "<< negbucktwenty<<endl;
     //cannot read on my system
 
+    //practice with Boolean data types
+    bool Go = true;
+    bool Stop = false;
+    cout<<"These next two strings display bool data types\n";
+    cout<<"Go: "<<Go<<endl;
+    cout<<"Stop: "<<Stop<<endl;
+
+    if (Go == true) {
+        cout<<"GO is True!";
+    }
+    else {
+        cout<<"You must Stop!";
+    }
+
+
+
 
     return 0;
 }
