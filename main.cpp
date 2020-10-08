@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 
 
 
@@ -63,6 +64,8 @@ int main() {
 
     cin >> place_holder;
     cout<<"for place_holder you entered: "<< place_holder<<endl;
+
+    cout<<"strlen(place_holder): "<< strlen(place_holder)<<endl;
 
 
     /*int length_of_place_holder = sizeof(place_holder);
